@@ -1,0 +1,18 @@
+{
+    "column_list": [
+        "ad_event_id",
+        "anonymous_id",
+        "break_type",
+        "content_id",
+        "content_type",
+        "event_type",
+        "platform",
+        "playhead_time",
+        "event_timestamp",
+        "on_mobile_device",
+        "user_id",
+        "user_tier"
+    ],
+    "primary_key": "ad_event_id",
+    "sort_key": "event_timestamp"
+}

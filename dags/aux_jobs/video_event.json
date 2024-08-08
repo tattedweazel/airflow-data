@@ -1,0 +1,20 @@
+{
+    "column_list": [
+      "video_event_id",
+      "session_id",
+      "user_id",
+      "user_tier",
+      "anonymous_id",
+      "episode_key",
+      "label",
+      "position",
+      "resolution",
+      "volume",
+      "full_screen",
+      "event_timestamp",
+      "platform",
+      "on_mobile_device"
+    ],
+    "primary_key": "video_event_id",
+    "sort_key": "event_timestamp"
+}

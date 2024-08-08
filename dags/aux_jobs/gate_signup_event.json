@@ -1,0 +1,14 @@
+{
+    "column_list": [
+        "message_id",
+        "anonymous_id",
+        "event_timestamp",
+        "episode_title",
+        "episode_uuid",
+        "platform",
+        "option_selected",
+        "on_mobile_device"
+    ],
+    "primary_key": "message_id",
+    "sort_key": "event_timestamp"
+}

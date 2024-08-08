@@ -1,0 +1,15 @@
+{
+    "column_list": [
+      "session_id",
+      "user_key",
+      "user_tier",
+      "anonymous_id",
+      "episode_key",
+      "start_timestamp",
+      "platform",
+      "on_mobile_device",
+      "decile"
+    ],
+    "primary_key": "session_id",
+    "sort_key": "start_timestamp"
+}

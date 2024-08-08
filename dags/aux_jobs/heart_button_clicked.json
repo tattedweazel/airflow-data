@@ -1,0 +1,12 @@
+{
+    "column_list": [
+        "message_id",
+        "anonymous_id",
+        "user_id",
+        "user_tier",
+        "event_timestamp",
+        "platform"
+    ],
+    "primary_key": "message_id",
+    "sort_key": "event_timestamp"
+}

@@ -1,0 +1,16 @@
+{
+    "column_list": [
+        "event_id",
+        "anonymous_id",
+        "user_id",
+        "user_tier",
+        "series_id",
+        "sort",
+        "filter_channel_id",
+        "filter_genre",
+        "on_mobile_device",
+        "event_timestamp"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

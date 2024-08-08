@@ -1,0 +1,16 @@
+{
+    "column_list": [
+      "session_id",
+      "user_key",
+      "user_tier",
+      "anonymous_id",
+      "episode_key",
+      "active_seconds",
+      "start_timestamp",
+      "end_timestamp",
+      "duration_seconds",
+      "max_position",
+      "platform"
+    ],
+    "primary_key": "session_id"
+}

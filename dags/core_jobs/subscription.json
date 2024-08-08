@@ -1,0 +1,22 @@
+{
+    "column_list": [
+      "user_key",
+      "id",
+      "subscription_id",
+      "subscription_event_type",
+      "subscription_event",
+      "start_timestamp",
+      "end_timestamp",
+      "event_timestamp",
+      "trial",
+      "payment_provider",
+      "membership_plan",
+      "amount_cents",
+      "coupon_code",
+      "stripe_user",
+      "sent_at",
+      "user_id"
+    ],
+    "primary_key": "id",
+    "sort_key": "event_timestamp"
+}

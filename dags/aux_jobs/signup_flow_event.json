@@ -1,0 +1,18 @@
+{
+    "column_list": [
+        "event_id",
+        "user_id",
+        "user_tier",
+        "anonymous_id",
+        "event_timestamp",
+        "state",
+        "step",
+        "option_selected",
+        "platform",
+        "on_mobile_device",
+        "campaign",
+        "code_applied"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

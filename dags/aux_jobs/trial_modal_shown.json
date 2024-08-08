@@ -1,0 +1,12 @@
+{
+    "column_list": [
+        "message_id",
+        "user_id",
+        "anonymous_id",
+        "item_id",
+        "item_type",
+        "timestamp"
+    ],
+    "primary_key": "message_id",
+    "sort_key": "timestamp"
+}

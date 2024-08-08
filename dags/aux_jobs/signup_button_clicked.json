@@ -1,0 +1,13 @@
+{
+    "column_list": [
+      "event_id",
+      "anonymous_id",
+      "context_page_url",
+      "location",
+      "event_timestamp",
+      "platform",
+      "on_mobile_device"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

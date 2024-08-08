@@ -1,0 +1,19 @@
+{
+    "column_list": [
+        "message_id",
+        "anonymous_id",
+        "user_id",
+        "user_tier",
+        "content_block_display_type",
+        "content_block_item_use_type",
+        "content_block_uuid",
+        "location",
+        "target_url",
+        "event_timestamp",
+        "platform",
+        "static_spotlight_element_clicked",
+        "static_spotlight_element_copy"
+    ],
+    "primary_key": "message_id",
+    "sort_key": "event_timestamp"
+}

@@ -1,0 +1,21 @@
+{
+    "column_list": [
+        "event_id",
+        "app_version",
+        "build",
+        "device_manufacturer",
+        "device_model",
+        "wifi",
+        "cellular",
+        "os_name",
+        "os_version",
+        "from_background",
+        "event_timestamp",
+        "platform",
+        "user_id",
+        "anonymous_id",
+        "user_tier"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

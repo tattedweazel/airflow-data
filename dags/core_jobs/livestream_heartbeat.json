@@ -1,0 +1,14 @@
+{
+    "column_list": [
+        "heartbeat_id",
+        "session_id",
+        "anonymous_id",
+        "user_id",
+        "user_uuid",
+        "user_tier",
+        "event_timestamp",
+        "platform"
+    ],
+    "primary_key": "heartbeat_id",
+    "sort_key": "event_timestamp"
+}

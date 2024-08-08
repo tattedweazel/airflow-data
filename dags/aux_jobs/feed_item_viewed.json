@@ -1,0 +1,18 @@
+{
+    "column_list": [
+        "id",
+        "user_id",
+        "anonymous_id",
+        "page",
+        "carousel_name",
+        "item_type",
+        "item_name",
+        "item_uuid",
+        "feed_tier",
+        "received_at",
+        "sent_at",
+        "original_timestamp"
+    ],
+    "primary_key": "id",
+    "sort_key": "received_at"
+}

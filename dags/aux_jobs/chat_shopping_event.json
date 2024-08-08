@@ -1,0 +1,12 @@
+{
+    "column_list": [
+        "event_id",
+        "event_timestamp",
+        "user_id",
+        "user_tier",
+        "product_title",
+        "product_id"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

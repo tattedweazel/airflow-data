@@ -1,0 +1,11 @@
+{
+    "column_list": [
+      "event_id",
+      "anonymous_id",
+      "user_id",
+      "platform",
+      "event_timestamp"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

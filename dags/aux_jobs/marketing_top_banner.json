@@ -1,0 +1,14 @@
+{
+    "column_list": [
+        "anonymous_id",
+        "link",
+        "message_id",
+        "platform",
+        "event_timestamp",
+        "user_id",
+        "on_mobile_device",
+        "user_tier"
+    ],
+    "primary_key": "message_id",
+    "sort_key": "event_timestamp"
+}

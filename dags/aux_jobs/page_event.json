@@ -1,0 +1,15 @@
+{
+    "column_list": [
+        "page_event_id",
+        "anonymous_id",
+        "user_id",
+        "user_tier",
+        "path",
+        "previous_path",
+        "title",
+        "event_timestamp",
+        "on_mobile_device"
+    ],
+    "primary_key": "page_event_id",
+    "sort_key": "event_timestamp"
+}

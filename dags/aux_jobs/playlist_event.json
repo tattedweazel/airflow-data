@@ -1,0 +1,16 @@
+{
+    "column_list": [
+        "anonymous_id",
+        "item_id",
+        "item_type",
+        "label",
+        "message_id",
+        "platform",
+        "playlist_id",
+        "playlist_name",
+        "timestamp",
+        "user_id"
+    ],
+    "primary_key": "message_id",
+    "sort_key": "timestamp"
+}

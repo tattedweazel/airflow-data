@@ -1,0 +1,10 @@
+{
+    "column_list": [
+      "session_id",
+      "start_timestamp",
+      "count",
+      "platform"
+    ],
+    "primary_key": "session_id",
+    "sort_key": "start_timestamp"
+}

@@ -1,0 +1,14 @@
+{
+    "column_list": [
+        "chat_event_id",
+        "actor",
+        "action",
+        "target",
+        "room_id",
+        "anonymous_id",
+        "user_id",
+        "event_timestamp"
+    ],
+    "primary_key": "chat_event_id",
+    "sort_key": "event_timestamp"
+}

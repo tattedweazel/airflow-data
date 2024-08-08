@@ -1,0 +1,17 @@
+{
+    "column_list": [
+        "event_id",
+        "event_timestamp",
+        "user_id",
+        "coupon_code",
+        "offer_code",
+        "new_plan_code",
+        "new_plan_end",
+        "new_plan_start",
+        "old_plan_code",
+        "old_plan_end",
+        "old_plan_start"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}

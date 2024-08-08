@@ -1,0 +1,20 @@
+{
+    "column_list": [
+        "event_id",
+        "user_id",
+        "anonymous_id",
+        "user_tier",
+        "item_type",
+        "item_name",
+        "item_use",
+        "url",
+        "cta_type",
+        "has_sso",
+        "has_video",
+        "platform",
+        "event_timestamp",
+        "on_mobile_device"
+    ],
+    "primary_key": "event_id",
+    "sort_key": "event_timestamp"
+}
